@@ -1,2 +1,3 @@
-# mOnte
-Coin Flip and Randomnessy
+streamlit
+matplotlib
+numpy
